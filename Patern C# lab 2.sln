@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patern C# lab 2", "Patern C# lab 2\Patern C# lab 2.csproj", "{439CF9DC-F197-4819-89C3-894926C2CADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{439CF9DC-F197-4819-89C3-894926C2CADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439CF9DC-F197-4819-89C3-894926C2CADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439CF9DC-F197-4819-89C3-894926C2CADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439CF9DC-F197-4819-89C3-894926C2CADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93FEBFC7-F3D8-4A91-A98F-B9A2DD111E4F}
+	EndGlobalSection
+EndGlobal
